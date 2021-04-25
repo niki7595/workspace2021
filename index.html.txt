@@ -2,8 +2,7 @@
 <html>
 <body>
 <p> keeping old header</p>
-<h1>mau 1</h1>
-<h2>mau 2</h2>
+<h2>PILLU 2</h2>
 <h3>mau 3</h3>
 <h4>mau 4</h4>
 <h5>mau 5</h5>
